@@ -1,0 +1,12 @@
+{
+  "name": "abc-medicos",
+  "version": "1.0.0",
+  "description": "A comprehensive pharmacy management system with separate interfaces for administrators and customers, built with PHP and MySQL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
