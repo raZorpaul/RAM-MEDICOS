@@ -1,16 +1,14 @@
-# ABC MEDICOS - Pharmacy Management System
+# RAM MEDICOS - Pharmacy Management System
 
 A comprehensive pharmacy management system with separate interfaces for administrators and customers, built with PHP and MySQL.
 
 ## 📋 Project Overview
 
-ABC MEDICOS is a full-featured pharmacy management system that enables:
+RAM MEDICOS is a full-featured pharmacy management system that enables:
 - **Admin Panel**: Complete inventory management, order processing, prescription verification, and analytics
 - **Customer Portal**: Medicine browsing, prescription uploads, order placement, and account management
 
-## 🚀 Frontend Live Demo
 
-https://mohammedshehe.github.io/ABCMEDICOS
 
 ## 🛠️ Technical Stack
 
@@ -122,7 +120,7 @@ The system uses a comprehensive database with tables including:
 1. **Clone the repository**
    ```bash
    git clone [repository-url]
-   cd "ABC MEDICOS"
+   cd "RAM MEDICOS"
    ```
 
 2. **Database Setup**
@@ -167,3 +165,4 @@ This project is proprietary software. All rights reserved.
 
 sudo chown $USER:$USER index.html
 chmod u+w index.html
+
